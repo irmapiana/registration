@@ -1,0 +1,20 @@
+[
+    {
+        "firstName": "irma",
+        "lastName": "piana",
+        "username": "irmapy",
+        "hash": "$2a$10$zFZW1c2rMoh92nFzQvprFeL9eZBfSx/ogA67qh4pF9XQdA00ZLO3S",
+        "id": 1,
+        "dateCreated": "2021-09-03T14:40:13.661Z",
+        "dateUpdated": "2021-09-03T14:40:13.661Z"
+    },
+    {
+        "firstName": "fas",
+        "lastName": "fay",
+        "username": "fasfay",
+        "hash": "$2a$10$gx5hNDdTIyN057/KE9S3EO6TyTEAUqe.eTw3OkrCb9k6HZ5zY6s5O",
+        "id": 2,
+        "dateCreated": "2021-09-04T00:43:14.318Z",
+        "dateUpdated": "2021-09-04T00:43:14.318Z"
+    }
+]
